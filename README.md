@@ -20,7 +20,7 @@
 ## 🧑‍💻 Usage
 
 ```bash
-git clone https://github.com/your-username/devfinity.git
+git clone https://github.com/LittleCodr/typescript-devops-infinity-symbol
 cd devfinity
 npm install
 npm run dev
